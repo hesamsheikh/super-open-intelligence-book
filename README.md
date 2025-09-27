@@ -4,8 +4,7 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/super-open-intelligence-book)
-![Twitter Follow](https://img.shields.io/twitter/follow/Hesamation?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/super-open-intelligence-book) &nbsp;&nbsp;&nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/Hesamation?style=social)
 
 </div>
 
@@ -60,7 +59,8 @@ Frameworks for testing and benchmarking LLMs & agents.
 
 | Repo | Description | Stars |
 |------|-------------|------|
-| | (This section will be expanded) | |
+| [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | A framework for few-shot evaluation of language models | ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | The LLM Evaluation Framework | ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) |
 
 
 ### Tools and Extensions
