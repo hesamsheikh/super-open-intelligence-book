@@ -1,8 +1,12 @@
 # Super Open Intelligence Book
 
+![header](assets/header.png)
+
+<div align="center">
+
 ![GitHub stars](https://img.shields.io/github/stars/hesamation/super-open-intelligence-book?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Hesamation?style=social)
 
-![header](assets/header.png)
+</div>
 
 A list of open source generative AI projects for developers who want to contribute to building AI, and their portfolio. All of these repositories are actively being developed and maintained. 
 
@@ -68,4 +72,5 @@ Libraries, plugins, and utilities that extend LLM/GenAI usage.
 
 ## ✨ Call to Contributions
 If there are hot respotiroies missing, add them. 
+
 If any of these repositories are now stale, remove them.
