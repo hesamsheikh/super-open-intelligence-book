@@ -41,7 +41,7 @@ Multi-agent frameworks and components (e.g. memory).
 | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | Framework for building & managing autonomous agents | ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) |
 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | SDK for LLM orchestration (skills, memory) | ![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Low-code visual builder for LLM workflows | ![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social) |
-| [DeepWisdomAI/MetaGPT](https://github.com/DeepWisdomAI/MetaGPT) | Multi-agent "software team" for auto-coding | ![GitHub stars](https://img.shields.io/github/stars/DeepWisdomAI/MetaGPT?style=social) |
+| [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | Multi-Agent Framework | ![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social) |
 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Build resilient language agents as graphs. | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social) |
 
 
