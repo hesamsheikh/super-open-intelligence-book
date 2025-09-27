@@ -6,7 +6,7 @@
 
 A list of open source generative AI projects for developers who want to contribute to building AI, and their portfolio. All of these repositories are actively being developed and maintained. 
 
-## Categorized Open-Source Projects
+## 📋 List of Open-Source Projects
 
 ### LLM Infra and Optimization
 
@@ -65,3 +65,7 @@ Libraries, plugins, and utilities that extend LLM/GenAI usage.
 | Repo | Description | Stars |
 |------|-------------|------|
 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | Diffusion models for image/audio/video generation | ![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social) |
+
+## ✨ Call to Contributions
+If there are hot respotiroies missing, add them. 
+If any of these repositories are now stale, remove them.
