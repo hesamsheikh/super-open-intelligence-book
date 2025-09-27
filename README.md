@@ -4,7 +4,8 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/hesamation/super-open-intelligence-book?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Hesamation?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/super-open-intelligence-book)
+![Twitter Follow](https://img.shields.io/twitter/follow/Hesamation?style=social)
 
 </div>
 
