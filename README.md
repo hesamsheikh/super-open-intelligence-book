@@ -72,6 +72,6 @@ Libraries, plugins, and utilities that extend LLM/GenAI usage.
 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | Diffusion models for image/audio/video generation | ![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social) |
 
 ## ✨ Call to Contributions
-If there are hot respotiroies missing, add them. 
+If there are hot repositories missing, add them. 
 
 If any of these repositories are now stale, remove them.
