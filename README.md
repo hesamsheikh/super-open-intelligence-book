@@ -26,8 +26,7 @@ Frameworks, runtimes, and systems for training, inference, and scaling.
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 2-5x faster LLM fine-tuning with 80% less memory usage | ![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social) |
 | [huggingface/trl](https://github.com/huggingface/trl) | Transformer Reinforcement Learning - train language models with RLHF | ![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social) |
 | [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) | Distributed training and optimization for large models | ![GitHub stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social) |
-| [mlflow/mlflow ](https://github.com/mlflow/mlflow) | End-to-end ML lifecycle management (tracking, serving) | ![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social)
- |
+| [mlflow/mlflow ](https://github.com/mlflow/mlflow) | End-to-end ML lifecycle management (tracking, serving) | ![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social)|
 
 
 ### Agents
